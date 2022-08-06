@@ -6,3 +6,8 @@ You need to change the connection string in the App.config according to your dat
 
 Change the List Box according to your database columns. 
 
+GEtting the data:
+![image](https://user-images.githubusercontent.com/73180844/183238068-559f4d54-6812-4dc6-b74d-dbfe158d4b50.png)
+
+With all the values calculated:
+![image](https://user-images.githubusercontent.com/73180844/183238100-97235ca7-5941-432d-9038-0dfe948b9e1c.png)
