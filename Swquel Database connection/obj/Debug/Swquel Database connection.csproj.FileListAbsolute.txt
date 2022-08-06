@@ -1,0 +1,17 @@
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\Swquel Database connection.exe.config
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\Swquel Database connection.exe
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\Swquel Database connection.pdb
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\Dapper.dll
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\Dapper.xml
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel Database connection.csproj.AssemblyReference.cache
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel_Database_connection.Form1.resources
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel_Database_connection.Properties.Resources.resources
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel Database connection.csproj.GenerateResource.cache
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel Database connection.csproj.CoreCompileInputs.cache
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel Database connection.csproj.CopyComplete
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel Database connection.exe
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\obj\Debug\Swquel Database connection.pdb
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\internship\source\repos\Swquel Database connection\Swquel Database connection\bin\Debug\System.Net.Http.Formatting.xml
