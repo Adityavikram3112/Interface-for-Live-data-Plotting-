@@ -91,8 +91,8 @@ namespace Swquel_Database_connection
 
         public void UpdateBinding()
         {
+             dataListBox.DataSource = null;
             dataListBox.DataSource = DataAccess.l1;
-            dataListBox.DisplayMember = this.ColumnBox.GetItemText(this.ColumnBox.SelectedItem);
         }
 
 
