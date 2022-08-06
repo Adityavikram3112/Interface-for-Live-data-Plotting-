@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swquel Database connection", "Swquel Database connection\Swquel Database connection.csproj", "{483FFEE2-AF13-4502-99D5-8FADBC60D1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483FFEE2-AF13-4502-99D5-8FADBC60D1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483FFEE2-AF13-4502-99D5-8FADBC60D1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483FFEE2-AF13-4502-99D5-8FADBC60D1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483FFEE2-AF13-4502-99D5-8FADBC60D1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {065E5BA8-F1C5-4355-8982-43071EB07B89}
+	EndGlobalSection
+EndGlobal
